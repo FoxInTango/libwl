@@ -1,0 +1,1 @@
+rule of opcodes   : wayland/src/scanner.c : emit_enumerations  emit_structs  emit_opcodes
